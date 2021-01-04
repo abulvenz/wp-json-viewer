@@ -1,0 +1,49 @@
+@import 'mini.css';
+.container {
+    max-width: 1024px;
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
+
+.wp-block-columns {
+    display: flex;
+}
+
+h1 {
+    margin-top: 2em;
+}
+
+figcaption {
+    font-size: 1em;
+}
+
+.wp-image-916 {
+    width: 516px;
+}
+
+.wp-image-888 {
+    width: 516px;
+}
+
+.wp-image-873 {
+    width: 516px;
+}
+
+.wp-image-863 {
+    width: 516px;
+}
+
+.wp-image-867 {
+    width: 516px;
+}
+
+.wp-image-850 {
+    width: 516px;
+}
+
+.wp-image-836 {
+    width: 516px;
+}
